@@ -9,6 +9,7 @@ body {
 
 .navbar {
   margin-bottom: 0;
+    height: 5rem;
 }
 
 .navbar-collapse .container-fluid {
@@ -97,6 +98,7 @@ body {
 footer {
   padding-top: 3rem;
   padding-bottom: 3rem;
+    background-color:  black;
 }
 
 footer p {
